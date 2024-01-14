@@ -1,0 +1,4 @@
+
+$definemacro unanimatedmodel smdfile \\
+$body body $smdfile$ \\
+$sequence idle $smdfile$
