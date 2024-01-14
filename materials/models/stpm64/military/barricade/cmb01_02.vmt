@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture "models/stpm64/military/barricade/cmb01_02_ds"
+	$surfaceprop "combine_metal"
+	$envmap "env_cubemap"
+	$basealphaenvmapmask 1
+	$envmaptint "[ .125 .125 .125]"
+}
