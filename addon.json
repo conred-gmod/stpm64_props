@@ -1,0 +1,13 @@
+{
+	"title"		:	"stpM64's Prop Pack",
+	"type"		:	"model",
+	"tags"		:	[ "roleplay", "build" ],
+	"ignore"	:
+	[
+		"*.md",
+        "*.tga",
+        ".github/*",
+        ".git*",
+        "modelssrc/*"
+	]
+}
