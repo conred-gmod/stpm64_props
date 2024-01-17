@@ -1,0 +1,10 @@
+Разные модели.
+Заявки пока не принимаются.
+
+Исходники доступны [url=https://github.com/conred-gmod/stpm64_props]здесь[/url].
+
+Над ресурсами работали:
+[list]
+	[*]Valve Software
+	[*]stpM64
+[/list]
