@@ -7,4 +7,5 @@
 [list]
 	[*]Valve Software
 	[*]stpM64
+	[*]Разработчики MegaPatch 4
 [/list]
