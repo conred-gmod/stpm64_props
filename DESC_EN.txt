@@ -1,0 +1,15 @@
+Various models.
+Requests are not accepted yet.
+
+Sources are [url=https://github.com/conred-gmod/stpm64_props]here[/url].
+
+Asset authors:
+[list]
+	[*]Valve Software
+	[*]stpM64
+	[*]Developers of MegaPatch 4
+[/list]
+
+
+
+Tags: [spoiler]hl2, half-life 2, combine, альянс[/spoiler]
