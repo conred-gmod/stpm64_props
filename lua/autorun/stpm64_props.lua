@@ -12,3 +12,15 @@ if SERVER then
         end
     end)
 end
+
+timer.Simple(0, function()
+    if WireLib == nil then return end
+
+    local function DefineScreen_FromBox_Helper(name, model, scrmin, scrmax, transparent)
+        WireGPU_FromBox("stpModels: "..name, model, scrmin, scrmax, transparent or false)
+        list.Set("WireScreenModels", model, true)
+    end
+
+    DefineScreen_FromBox_Helper("Combine Screen Big 001", "models/stpm64/tech/screen_cmb_big001.mdl",
+        Vector(-38, -4, 7), Vector(30, -4, 62), Angle(0,90,0))
+end)
