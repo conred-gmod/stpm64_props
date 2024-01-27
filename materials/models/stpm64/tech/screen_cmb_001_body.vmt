@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/stpm64/tech/screen_cmb_001_body_ds"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .45 .5 .6]"
+	"$basealphaenvmapmask" 1
+}
