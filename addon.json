@@ -8,6 +8,8 @@
         "*.tga",
         ".github/*",
         ".git*",
-        "modelssrc/*"
+        "modelssrc/*",
+		"materials/z-o-m-b-i-e/*",
+		"materials/models/z-o-m-b-i-e/*"
 	]
 }
