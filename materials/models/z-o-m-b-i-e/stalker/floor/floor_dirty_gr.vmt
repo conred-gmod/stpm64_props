@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/floor/floor_dirty_gr"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/floor/floor_dirty_gr_norm"
+	"$surfaceprop" "tile"
+	"$detail" "z-o-m-b-i-e/STALKER/detail/detail_dirt_det1"
+	"$detailscale" "6.00"
+	"$detailblendfactor" "1.0"
+	"$detailblendmode" "0"
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\z-o-m-b-i-e/STALKER/dev_items/item_x_files"
+	"$bumpmap" "models\z-o-m-b-i-e/STALKER/dev_items/item_x_files_norm"
+}

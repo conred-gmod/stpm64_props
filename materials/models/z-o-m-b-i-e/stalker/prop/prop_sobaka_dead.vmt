@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/prop/prop_sobaka_dead"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/prop/prop_sobaka_dead_norm"
+	"$translucent" "1"
+	"$surfaceprop" "fresh"
+}
+	

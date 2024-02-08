@@ -1,0 +1,6 @@
+"LightMappedGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/trees/trees_byaka1"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/trees/trees_byaka1_norm"
+	"$surfaceprop" "wood"
+}

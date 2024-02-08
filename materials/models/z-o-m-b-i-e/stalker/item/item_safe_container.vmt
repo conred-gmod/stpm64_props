@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/item/item_safe_container"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/item/item_safe_container_norm"
+	"$surfaceprop" "plastic"
+}
+	

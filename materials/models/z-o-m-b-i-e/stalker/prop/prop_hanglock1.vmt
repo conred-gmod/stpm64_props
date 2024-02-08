@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/prop/prop_hanglock1"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/prop/prop_hanglock1_norm"
+	"$surfaceprop" "metal"
+}
+	

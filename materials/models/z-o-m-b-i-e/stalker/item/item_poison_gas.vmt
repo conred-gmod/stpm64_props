@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/item/item_poison_gas"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/item/item_poison_gas_norm"
+	"$surfaceprop" "metal"
+}
+	

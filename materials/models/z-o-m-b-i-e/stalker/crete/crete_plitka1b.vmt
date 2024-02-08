@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/crete/crete_plitka1b"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/crete/crete_plitka1b_norm"
+	"$surfaceprop" "concrete"
+}

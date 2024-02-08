@@ -1,0 +1,13 @@
+"LightMappedGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/sign/sign_info_03r"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/sign/sign_info_03r_norm"
+	"$decal" "1" 
+	"$translucent" "1"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapsaturation" 1
+	"$envmapcontrast" 1
+	"$envmaptint" "[ 0.2 0.2 0.2 ]" //"[ .25 .25 .25 ]"
+	"HDR" { "$envmaptint" "[0,05 0,05 0,05]" }
+}

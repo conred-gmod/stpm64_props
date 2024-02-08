@@ -1,0 +1,6 @@
+"LightMappedGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/prop/prop_kolba_light"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/prop/prop_kolba_light_norm"
+	"$surfaceprop" "glass"
+}

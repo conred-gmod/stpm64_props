@@ -1,0 +1,6 @@
+"LightMappedGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/gr/gr_30"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/gr/gr_30_norm"
+	"$surfaceprop" "metal"
+}

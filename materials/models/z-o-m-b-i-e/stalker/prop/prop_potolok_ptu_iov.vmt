@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/prop/prop_potolok_ptu_iov"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/prop/prop_potolok_ptu_iov_norm"
+	"$surfaceprop" "plaster"
+}
+	

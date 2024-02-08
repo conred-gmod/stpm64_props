@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/item/item_nabor_young_technic"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/item/item_nabor_young_technic_norm"
+	"$surfaceprop" "wood"
+}
+	

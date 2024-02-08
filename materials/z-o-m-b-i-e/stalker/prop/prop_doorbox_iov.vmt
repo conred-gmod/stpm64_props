@@ -1,0 +1,8 @@
+"LightMappedGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/prop/prop_doorbox_iov"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/prop/prop_doorbox_iov_norm"
+	"$surfaceprop" "wood"
+}
+
+	

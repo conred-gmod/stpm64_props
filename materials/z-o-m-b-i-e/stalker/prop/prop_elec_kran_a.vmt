@@ -1,0 +1,6 @@
+"LightMappedGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/prop/prop_elec_kran_a"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/prop/prop_elec_kran_a_norm"
+	"$surfaceprop" "metal"
+}

@@ -1,0 +1,9 @@
+"LightMappedGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/prop/prop_provod_04"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/prop/prop_provod_04_norm"
+	"$surfaceprop" "metal"
+	"$nocull" 1
+	"$nodecal" "1"
+	"$translucent" "1"
+}

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/grnd/grnd_railroad1"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/grnd/grnd_railroad1_norm"
+	"$surfaceprop" "concrete"
+}
+	

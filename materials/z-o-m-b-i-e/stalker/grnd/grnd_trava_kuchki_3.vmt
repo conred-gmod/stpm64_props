@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/grnd/grnd_trava_kuchki_3"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/grnd/grnd_trava_kuchki_3_norm"
+	"$surfaceprop" "grass"
+}

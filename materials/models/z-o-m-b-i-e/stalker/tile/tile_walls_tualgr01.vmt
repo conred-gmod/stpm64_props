@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/tile/tile_walls_tualgr01"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/tile/tile_walls_tualgr01_norm"
+	"$surfaceprop" "tile"
+}
+	

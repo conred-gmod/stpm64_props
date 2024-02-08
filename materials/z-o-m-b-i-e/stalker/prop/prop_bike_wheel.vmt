@@ -1,0 +1,10 @@
+"LightMappedGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/prop/prop_bike_wheel"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/prop/prop_bike_wheel_norm"
+	"$nocull" 1
+	"$nodecal" "1"
+	"$translucent" "1"
+	"$surfaceprop" "metal"
+}
+	

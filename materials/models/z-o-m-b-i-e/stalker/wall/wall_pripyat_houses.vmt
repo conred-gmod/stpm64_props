@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/wall/wall_pripyat_houses"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/wall/wall_pripyat_houses_norm"
+	"$surfaceprop" "concrete"
+}	

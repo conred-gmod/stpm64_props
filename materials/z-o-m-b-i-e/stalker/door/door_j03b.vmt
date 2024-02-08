@@ -1,0 +1,8 @@
+"LightMappedGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/door/door_j03b"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/door/door_j03b_norm"
+	"$surfaceprop" "glass"
+	"$translucent" "1"
+}
+

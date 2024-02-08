@@ -1,0 +1,7 @@
+"LightMappedGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/prop/prop_border"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/prop/prop_border_norm"
+	"$surfaceprop" "concrete"
+}
+	

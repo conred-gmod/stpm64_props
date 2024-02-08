@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/grnd/grnd_grass_escape"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/grnd/grnd_grass_escape_norm"
+	"$surfaceprop" "dirt"
+}
+	

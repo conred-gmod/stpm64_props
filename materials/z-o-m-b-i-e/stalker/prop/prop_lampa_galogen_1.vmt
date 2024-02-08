@@ -1,0 +1,7 @@
+"LightMappedGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/prop/prop_lampa_galogen_1"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/prop/prop_lampa_galogen_1_norm"
+	"$surfaceprop" "glass"
+}
+	

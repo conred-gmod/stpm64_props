@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/veh/veh_kamazwheel1"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/veh/veh_kamazwheel1_norm"
+	"$surfaceprop" "metal"
+}
+	

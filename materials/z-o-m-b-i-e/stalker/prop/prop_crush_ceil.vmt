@@ -1,0 +1,6 @@
+"LightMappedGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/prop/prop_crush_ceil"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/prop/prop_crush_ceil_norm"
+	"$surfaceprop" "wood"
+}

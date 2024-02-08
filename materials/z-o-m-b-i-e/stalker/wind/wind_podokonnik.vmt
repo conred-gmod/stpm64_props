@@ -1,0 +1,7 @@
+"LightMappedGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/wind/wind_podokonnik"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/wind/wind_podokonnik_norm"
+	"$surfaceprop" "wood"
+}
+	

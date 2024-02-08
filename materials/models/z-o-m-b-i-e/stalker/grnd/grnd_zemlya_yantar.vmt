@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/grnd/grnd_zemlya_yantar"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/grnd/grnd_zemlya_yantar_norm"
+	"$surfaceprop" "dirt"
+}
+
+	

@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/grnd/grnd_asphalt1_border"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/grnd/grnd_asphalt1_border_norm"
+	"$surfaceprop" "concrete"
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/grnd/grnd_zemlia_n"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/grnd/grnd_zemlia_n_norm"
+	"$surfaceprop" "concrete"
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/grnd/grnd_shlak3_dirt_blend"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/grnd/grnd_shlak3_dirt_blend_norm"
+	"$surfaceprop" "dirt"
+}
+	

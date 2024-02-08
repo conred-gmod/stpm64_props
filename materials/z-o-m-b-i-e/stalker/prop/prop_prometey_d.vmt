@@ -1,0 +1,6 @@
+"LightMappedGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/prop/prop_prometey_d"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/prop/prop_prometey_d_norm"
+	"$surfaceprop" "paper"
+}

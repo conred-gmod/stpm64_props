@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/item/item_mednaya_provoloka"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/item/item_mednaya_provoloka_norm"
+	"$surfaceprop" "metal"
+}

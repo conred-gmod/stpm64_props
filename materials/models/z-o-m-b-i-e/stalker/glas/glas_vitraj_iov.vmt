@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/glas/glas_vitraj_iov"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/glas/glas_vitraj_iov_norm"
+	"$surfaceprop" "glass"
+}
+	

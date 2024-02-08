@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/item/item_box_transistores"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/item/item_box_transistores_norm"
+	"$surfaceprop" "metal"
+	"$translucent" "1"
+}
+	

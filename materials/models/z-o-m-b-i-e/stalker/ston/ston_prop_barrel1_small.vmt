@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/ston/ston_prop_barrel1_small"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/ston/ston_prop_barrel1_small_norm"
+	"$surfaceprop" "concrete"
+}
+	

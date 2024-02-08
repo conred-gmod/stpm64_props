@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\z-o-m-b-i-e/STALKER/dev_items/item_detector_2_segment"
+	"$alphatest" "1"
+	"$nocull" "1"
+}

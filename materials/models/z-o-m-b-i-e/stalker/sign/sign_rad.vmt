@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/sign/sign_rad"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/sign/sign_rad_norm"
+	"$surfaceprop" "metal"
+}

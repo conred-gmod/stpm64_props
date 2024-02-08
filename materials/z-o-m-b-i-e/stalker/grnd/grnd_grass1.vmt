@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/grnd/grnd_grass1"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/grnd/grnd_grass1_norm"
+	"$surfaceprop" "grass"
+	"%detailtype" "Z_grass_01"
+}
+	

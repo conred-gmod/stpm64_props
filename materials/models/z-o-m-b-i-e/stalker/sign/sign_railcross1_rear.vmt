@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/sign/sign_railcross1_rear"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/sign/sign_railcross1_rear_norm"
+	"$surfaceprop" "metal"
+}

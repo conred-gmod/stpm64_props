@@ -1,0 +1,9 @@
+"WorldVertexTransition"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/detail/detail_grnd_asphalt"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/detail/detail_grnd_asphalt_norm"
+	"$baseTexture2" "z-o-m-b-i-e/STALKER/detail/detail_grnd_asphalt"
+	"$bumpmap2" "z-o-m-b-i-e/STALKER/detail/detail_grnd_asphalt_norm"
+	"$surfaceprop" "concrete"
+	"%detailtype" "Z_grass_border_01"
+}

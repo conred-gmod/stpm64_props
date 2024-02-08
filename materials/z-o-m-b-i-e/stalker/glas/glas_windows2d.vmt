@@ -1,0 +1,6 @@
+"LightMappedGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/glas/glas_windows2d"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/glas/glas_windows2d_norm"
+	"$surfaceprop" "glass"
+}

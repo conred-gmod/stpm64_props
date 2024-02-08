@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/grnd/grnd_train_road"
+	"$translucent" "1"
+	"$surfaceprop" "concrete"
+}
+	

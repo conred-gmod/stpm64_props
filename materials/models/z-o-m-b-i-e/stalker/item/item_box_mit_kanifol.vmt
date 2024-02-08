@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/item/item_box_mit_kanifol"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/item/item_box_mit_kanifol_norm"
+	"$surfaceprop" "metal"
+	"$translucent" "1"
+}
+	

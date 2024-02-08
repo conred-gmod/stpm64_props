@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/glas/glas_windows7"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/glas/glas_windows7_norm"
+	"$surfaceprop" "glass"
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/grnd/grnd_mudwalls_iov"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/grnd/grnd_mudwalls_iov_norm"
+	"$surfaceprop" "dirt"
+}

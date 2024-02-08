@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/prop/prop_barbwire4"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/prop/prop_barbwire4_norm"
+	"$nocull" 1
+	"$nodecal" "1"
+	"$translucent" "1"
+	"$surfaceprop" "metalgrate"
+}
+	

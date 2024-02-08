@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/item/item_small_tools"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/item/item_small_tools_norm"
+	"$surfaceprop" "wood"
+}

@@ -1,0 +1,6 @@
+"LightMappedGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/ston/ston_beton_03_stolb"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/ston/ston_beton_03_stolb_norm"
+	"$surfaceprop" "concrete"
+}	

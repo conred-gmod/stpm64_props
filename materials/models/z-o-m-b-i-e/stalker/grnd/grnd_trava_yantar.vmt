@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/grnd/grnd_trava_yantar"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/grnd/grnd_trava_yantar_norm"
+	"$surfaceprop" "grass"
+}
+	

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "z-o-m-b-i-e/STALKER/prop/prop_mozg"
+	"$bumpmap" "z-o-m-b-i-e/STALKER/prop/prop_mozg_norm"
+	"$surfaceprop" "dirt"
+	"$nocull" 1
+	"$nodecal" "1"
+	"$translucent" "1"
+}
