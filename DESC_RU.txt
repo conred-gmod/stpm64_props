@@ -1,4 +1,5 @@
 Разные модели.
+На данный момент большая часть - порты чужих работ.
 Заявки пока не принимаются.
 
 Исходники доступны [url=https://github.com/conred-gmod/stpm64_props]здесь[/url].
@@ -8,6 +9,7 @@
 	[*]Valve Software
 	[*]stpM64
 	[*]Разработчики MegaPatch 4
+	[*]GSC Game World
 [/list]
 
 

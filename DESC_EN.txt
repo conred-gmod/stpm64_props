@@ -1,4 +1,5 @@
 Various models.
+Currently most of them are works of others.
 Requests are not accepted yet.
 
 Sources are [url=https://github.com/conred-gmod/stpm64_props]here[/url].
@@ -8,6 +9,7 @@ Asset authors:
 	[*]Valve Software
 	[*]stpM64
 	[*]Developers of MegaPatch 4
+	[*]GSC Game World
 [/list]
 
 
