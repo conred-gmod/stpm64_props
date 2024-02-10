@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@master
       
-      - uses: wiremod/gmod-upload@master
+      - uses: conred-gmod/gmod-upload@master
         with:
           id: 3140746840
           changelog: "Deployment via Github to commit ${GITHUB_SHA:0:7}"
