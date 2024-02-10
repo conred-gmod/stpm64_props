@@ -8,8 +8,11 @@
         "*.tga",
         ".github/*",
         ".git*",
+		"*.xcf",
         "modelssrc/*",
 		"materials/z-o-m-b-i-e/*",
-		"materials/models/z-o-m-b-i-e/*"
+		"materials/models/z-o-m-b-i-e/*",
+		"DESC_*.txt",
+		"workshopicon.jpg"
 	]
 }
