@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/stpm64/stalker_port/prop_grate4"
+	"$surfaceprop" "metal"
+}
