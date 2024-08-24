@@ -1,0 +1,4 @@
+Дополнительные ресурсы из/с/от:
+- Swelter и Snowdrop Escape (фрагменты текстуры pipe_segment_001.vtf)
+- ambientcg.com (https://ambientcg.com/view?id=Plastic018B)
+- Marlin Studios (текстуры)

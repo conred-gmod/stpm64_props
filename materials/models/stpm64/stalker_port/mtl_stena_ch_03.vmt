@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/stpm64/stalker_port/mtl_stena_ch_03d"
+	"$bumpmap" "models/stpm64/stalker_port/mtl_stena_ch_03n"
+	"$surfaceprop" "metal"
+	"$detail" "z-o-m-b-i-e/STALKER/detail/detail_metall_det1"
+	"$detailscale" "6.00"
+	"$detailblendfactor" "1.0"
+	"$detailblendmode" "0"
+}

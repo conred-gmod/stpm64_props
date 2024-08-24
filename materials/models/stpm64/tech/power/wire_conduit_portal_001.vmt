@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/stpm64/tech/power/wire_conduit_portal_001_d"
+	"$surfaceprop" "metal"
+}
